@@ -5,3 +5,4 @@ week day2 = Monday
 week day3 = tuesday
 week day4 = wednesday
 week day5 = thusday
+week day6 = friday
